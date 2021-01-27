@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maze-Generator-ReactJS/static/css/main.46e22899.chunk.css",
+    "main.js": "/Maze-Generator-ReactJS/static/js/main.c5468513.chunk.js",
+    "main.js.map": "/Maze-Generator-ReactJS/static/js/main.c5468513.chunk.js.map",
+    "runtime-main.js": "/Maze-Generator-ReactJS/static/js/runtime-main.6205cc50.js",
+    "runtime-main.js.map": "/Maze-Generator-ReactJS/static/js/runtime-main.6205cc50.js.map",
+    "static/js/2.381bbc52.chunk.js": "/Maze-Generator-ReactJS/static/js/2.381bbc52.chunk.js",
+    "static/js/2.381bbc52.chunk.js.map": "/Maze-Generator-ReactJS/static/js/2.381bbc52.chunk.js.map",
+    "static/js/3.94cadc5e.chunk.js": "/Maze-Generator-ReactJS/static/js/3.94cadc5e.chunk.js",
+    "static/js/3.94cadc5e.chunk.js.map": "/Maze-Generator-ReactJS/static/js/3.94cadc5e.chunk.js.map",
+    "index.html": "/Maze-Generator-ReactJS/index.html",
+    "static/css/main.46e22899.chunk.css.map": "/Maze-Generator-ReactJS/static/css/main.46e22899.chunk.css.map",
+    "static/js/2.381bbc52.chunk.js.LICENSE.txt": "/Maze-Generator-ReactJS/static/js/2.381bbc52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6205cc50.js",
+    "static/js/2.381bbc52.chunk.js",
+    "static/css/main.46e22899.chunk.css",
+    "static/js/main.c5468513.chunk.js"
+  ]
+}
