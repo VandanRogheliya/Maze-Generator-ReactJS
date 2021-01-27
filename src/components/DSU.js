@@ -22,10 +22,10 @@ class UnionFind {
 
      // Always make the element with smaller root the parent.
      if (rootA < rootB) {
-        if (this.parent[b] != b) this.union(this.parent[b], a);
+        if (this.parent[b] !== b) this.union(this.parent[b], a);
         this.parent[b] = this.parent[a];
      } else {
-        if (this.parent[a] != a) this.union(this.parent[a], b);
+        if (this.parent[a] !== a) this.union(this.parent[a], b);
         this.parent[a] = this.parent[b];
      }
   }
